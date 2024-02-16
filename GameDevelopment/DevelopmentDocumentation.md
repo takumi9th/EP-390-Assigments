@@ -10,5 +10,8 @@ I could have two type of stutter and several effects.
 ### What did you try that didn’t work?
 I tried to add biquad to right side of joystick but the filter itsself didn't work properly.<br>I noticed if I only have 8 loops, I only need 4 buttons. And I could add another function.
 
+### Update (2/15/23)
+I added lowpass filter and comb filter. LPF is working with right joystick and comb filter will react to gyro sensor.
+
 ### ↓User Manual is here↓
 [User Documentation](/GameDevelopment/UserDocumentation.md)
