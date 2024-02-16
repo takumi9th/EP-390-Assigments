@@ -6,5 +6,3 @@
 * [Game Development](./GameDevelopment/DevelopmentDocumentation.md)
 
 * [User Documentation](/GameDevelopment/UserDocumentation.md)
-
-[This is the text of my link](URL)
